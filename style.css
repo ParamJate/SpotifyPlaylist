@@ -1,0 +1,33 @@
+html{
+    font-family: bradley hand,cursive;
+}
+
+body{
+    background-color: cyan ;
+}
+
+.header{
+    background-color: yellow;
+}
+
+.para{
+    background-color: white;
+    font-style:oblique;
+    
+}
+
+.anjum table{
+    height: 10%;
+    vertical-align: center;
+    background-color: yellow;
+}
+
+.tbaig table{
+    background-color: yellow;
+}
+
+.tbsm table{
+    background-color: yellow;
+}
+
+

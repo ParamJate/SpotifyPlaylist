@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" style="font-family: Bradley Hand, cursive ">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="/image/icon.png">
+    <title>Song Name</title>
+</head>
+<body>
+
+    <h1>Song Name</h1>
+    <h4><u>Song By Seedhe Maut</u></h4>
+    <hr>
+    <h4>Music Video:</h4>
+    
+    
+    <h4>Lyrics:</h4>
+    <pre style="font-size:x-large;"><i>
+        
+        --- Lyrics---
+
+    </i></pre>
+
+
+</body>
+</html>
